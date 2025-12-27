@@ -17,7 +17,7 @@ We train a classification model using Spark ML, save it as a `PipelineModel`, an
 ---
 
 ## 📂 Project Structure
-
+#
 project/
 │
 ├── telco_dataset.csv # Input dataset (generated)
@@ -31,7 +31,7 @@ project/
 ├── output_predictions/ # Parquet output (partitioned by date)
 │
 └── README.md
-
+#
 
 ---
 
